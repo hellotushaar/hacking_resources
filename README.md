@@ -1,2 +1,3 @@
-# hacking_resources
-A list of tools and resources used throughtout the cyber kill chain.
+# A list of tools and resources used throughout the cyber kill chain.
+
+## Reconnaissance 
