@@ -18,4 +18,9 @@
 14.  [**SubFinder**](https://github.com/projectdiscovery/subfinder): Finds all subdomains under a specified domain.
 15.  [**GoWitness**](https://github.com/sensepost/gowitness): Golang-based tool to take and save snapshots of discovered subdomains.
 16.  [**Crt.sh**](https://crt.sh): Finds all subdomains based on digital certificates.
-17.  
+17.  [**GoTator**](https://github.com/Josue87/gotator): Automates enumeration process for subdomains.
+18.  [**Amass**](https://github.com/owasp-amass/amass): Enumerates through a wide range of data sources.
+19.  [**Hakrawler**](https://github.com/hakluke/hakrawler): Enumerate through the links used in the source code of a website and get 'em all.
+20.  [**HTTPx**](https://github.com/projectdiscovery/httpx): Handy tool to check which subdomains are alive.
+21.  [**ffuf**](https://github.com/ffuf/ffuf): Golang-based tool to fuzz through a website.
+    
