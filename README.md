@@ -1,5 +1,5 @@
 # Hacking Resources
-> A list of tools and resources used throughout the cyber kill chain.
+> A list of tools and resources used throughout a red teaming project.
 
 ## Reconnaissance 
 1. [**CrunchBase**](https://www.crunchbase.com): Tool to find information about companies and individuals.
